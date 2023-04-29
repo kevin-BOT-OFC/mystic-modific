@@ -33,7 +33,7 @@ db.data.users[win == room.p ? room.p2 : room.p].exp -= room.poin_lose
 delete this.suit[room.id]
 return !0
 }, room.timeout)}
-let jwb = m.sender == room.p
+let jwb = m.sender == ro
 let jwb2 = m.sender == room.p2
 let g = /tijera/i
 let b = /piedra/i
